@@ -497,17 +497,6 @@ F 3 "" H 10450 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MCU_ST_STM32F3:STM32F334K4Tx U7
-U 1 1 61629CC5
-P 8100 4000
-F 0 "U7" H 7600 4850 50  0000 L CNN
-F 1 "STM32F334K4Tx" H 8300 4850 50  0000 L CNN
-F 2 "Package_QFP:LQFP-32_7x7mm_P0.8mm" H 7600 3100 50  0001 R CNN
-F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00097745.pdf" H 8100 4000 50  0001 C CNN
-	1    8100 4000
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+BATT #PWR0110
 U 1 1 61641073
 P 2400 1100
@@ -1625,4 +1614,21 @@ Wire Wire Line
 	3150 6350 3450 6350
 Wire Wire Line
 	3150 6450 3450 6450
+$Comp
+L DBLS_MCU:STMICRO_STM32F334K6T6 U?
+U 1 1 61A1ACC3
+P 8100 4000
+F 0 "U?" H 7600 4850 50  0000 L CNN
+F 1 "STMICRO_STM32F334K6T6" H 8300 4850 50  0001 L CNN
+F 2 "Housings_QFP:LQFP-32_7x7mm_Pitch0.8mm" H 7600 3100 50  0001 R CNN
+F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00097745.pdf" H 8100 4000 50  0001 C CNN
+F 4 "STM32F334K6T6" H 8100 4000 40  0000 C CNN "mfg_pn"
+F 5 "STMicroelectronics" H 8100 4000 50  0001 C CNN "mfg"
+F 6 "digikey" H 8100 4000 50  0001 C CNN "vendor"
+F 7 "497-14952-5-ND" H 8100 4000 50  0001 C CNN "vendor_pn"
+F 8 "YES" H 8100 4000 30  0001 C CNN "place"
+F 9 "IC MCU 32BIT 32KB FLASH 32LQFP" H 8100 4000 50  0001 C CNN "description"
+	1    8100 4000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
