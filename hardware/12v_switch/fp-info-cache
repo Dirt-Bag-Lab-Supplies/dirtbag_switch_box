@@ -1,379 +1,232 @@
-81195274749356
-Capacitors_SMD
-CP_Elec_3x5.3
-SMT capacitor, aluminium electrolytic, 3x5.3
-
+49619336185245
+Housings_SOIC
+Diodes_PSOP-8
+8-Lead Plastic PSOP, Exposed Die Pad (see https://www.diodes.com/assets/Datasheets/AP2204.pdf)
+SSOP 0.50 exposed pad
 0
-2
-2
-Capacitors_SMD
-CP_Elec_4x4.5
-SMT capacitor, aluminium electrolytic, 4x4.5
-
+12
+9
+Housings_SOIC
+Infineon_PG-DSO-8-43
+Infineon_PG-DSO-8-43
+DSO DSO-8 SOIC SOIC-8
 0
-2
-2
-Capacitors_SMD
-CP_Elec_4x5.3
-SMT capacitor, aluminium electrolytic, 4x5.3
-
+12
+9
+Housings_SOIC
+PowerPAK_SO-8_Dual
+PowerPAK SO-8 Dual (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72600/72600.pdf)
+PowerPAK SO-8 Dual
 0
-2
-2
-Capacitors_SMD
-CP_Elec_4x5.7
-SMT capacitor, aluminium electrolytic, 4x5.7
-
+10
+6
+Housings_SOIC
+PowerPAK_SO-8_Single
+PowerPAK SO-8 Single (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72599/72599.pdf)
+PowerPAK SO-8 Single
 0
-2
-2
-Capacitors_SMD
-CP_Elec_4x5.8
-SMT capacitor, aluminium electrolytic, 4x5.8
-
+9
+5
+Housings_SOIC
+SO-4_4.4x2.3mm_Pitch1.27mm
+4-Lead Plastic Small Outline (SO), see http://datasheet.octopart.com/OPIA403BTRE-Optek-datasheet-5328560.pdf
+SO SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-CP_Elec_5x4.5
-SMT capacitor, aluminium electrolytic, 5x4.5
-
+4
+4
+Housings_SOIC
+SO-4_4.4x3.6mm_Pitch2.54mm
+4-Lead Plastic Small Outline (SO), see https://www.elpro.org/de/index.php?controller=attachment&id_attachment=339
+SO SOIC 2.54
 0
-2
-2
-Capacitors_SMD
-CP_Elec_5x5.3
-SMT capacitor, aluminium electrolytic, 5x5.3
-
+4
+4
+Housings_SOIC
+SO-4_4.4x4.3mm_Pitch2.54mm
+4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN
+SO SOIC 2.54
 0
-2
-2
-Capacitors_SMD
-CP_Elec_5x5.7
-SMT capacitor, aluminium electrolytic, 5x5.7
-
+4
+4
+Housings_SOIC
+SO-4_7.6x3.6mm_Pitch2.54mm
+4-Lead Plastic Small Outline (SO) (http://www.everlight.com/file/ProductFile/201407061745083848.pdf)
+SO SOIC 2.54
 0
-2
-2
-Capacitors_SMD
-CP_Elec_5x5.8
-SMT capacitor, aluminium electrolytic, 5x5.8
-
+4
+4
+Housings_SOIC
+SO-5_4.4x3.6mm_Pitch1.27mm
+5-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SO SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x4.5
-SMT capacitor, aluminium electrolytic, 6.3x4.5
-
+5
+5
+Housings_SOIC
+SO-6L_10x3.84mm_Pitch1.27mm
+6-pin plasic small outline 7,5mm long https://toshiba.semicon-storage.com/info/docget.jsp?did=53548&prodName=TLP2770
+SO-6L
 0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x5.3
-SMT capacitor, aluminium electrolytic, 6.3x5.3
-
+6
+6
+Housings_SOIC
+SO-6_4.4x3.6mm_Pitch1.27mm
+6-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SO SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x5.7
-SMT capacitor, aluminium electrolytic, 6.3x5.7
-
+6
+6
+Housings_SOIC
+SO-8_5.3x6.2mm_Pitch1.27mm
+8-Lead Plastic Small Outline, 5.3x6.2mm Body (http://www.ti.com.cn/cn/lit/ds/symlink/tl7705a.pdf)
+SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x5.8
-SMT capacitor, aluminium electrolytic, 6.3x5.8
-
+8
+8
+Housings_SOIC
+SOIC-8-1EP_3.9x4.9mm_Pitch1.27mm
+8-Lead Thermally Enhanced Plastic Small Outline (SE) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-CP_Elec_6.3x7.7
-SMT capacitor, aluminium electrolytic, 6.3x7.7
-
+12
+9
+Housings_SOIC
+SOIC-8_3.9x4.9mm_Pitch1.27mm
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-CP_Elec_8x5.4
-SMT capacitor, aluminium electrolytic, 8x5.4
-
+8
+8
+Housings_SOIC
+SOIC-14_3.9x8.7mm_Pitch1.27mm
+14-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-CP_Elec_8x6.5
-SMT capacitor, aluminium electrolytic, 8x6.5
-
+14
+14
+Housings_SOIC
+SOIC-16W_5.3x10.2mm_Pitch1.27mm
+16-Lead Plastic Small Outline (SO) - Wide, 5.3 mm Body (http://www.ti.com/lit/ml/msop002a/msop002a.pdf)
+SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-CP_Elec_8x6.7
-SMT capacitor, aluminium electrolytic, 8x6.7
-
+16
+16
+Housings_SOIC
+SOIC-16W_7.5x10.3mm_Pitch1.27mm
+16-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-CP_Elec_8x10
-SMT capacitor, aluminium electrolytic, 8x10
-
+16
+16
+Housings_SOIC
+SOIC-16W_7.5x12.8mm_Pitch1.27mm
+16-Lead Plastic Small Outline (SO) - Wide, 7.50 mm x 12.8 mm Body (http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM6000.PDF)
+SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-CP_Elec_8x10.5
-SMT capacitor, aluminium electrolytic, 8x10.5
-
+16
+16
+Housings_SOIC
+SOIC-16_3.9x9.9mm_Pitch1.27mm
+16-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-CP_Elec_10x7.7
-SMT capacitor, aluminium electrolytic, 10x7.7
-
+16
+16
+Housings_SOIC
+SOIC-18W_7.5x11.6mm_Pitch1.27mm
+18-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-CP_Elec_10x10
-SMT capacitor, aluminium electrolytic, 10x10
-
+18
+18
+Housings_SOIC
+SOIC-20W_7.5x12.8mm_Pitch1.27mm
+20-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-CP_Elec_10x10.5
-SMT capacitor, aluminium electrolytic, 10x10.5
-
+20
+20
+Housings_SOIC
+SOIC-24W_7.5x15.4mm_Pitch1.27mm
+24-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-C_0201
-Capacitor SMD 0201, reflow soldering, AVX (see smccp.pdf)
-capacitor 0201
+24
+24
+Housings_SOIC
+SOIC-28W_7.5x17.9mm_Pitch1.27mm
+28-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-C_0201_NoSilk
-Capacitor SMD 0201, reflow soldering, AVX (see smccp.pdf)
-capacitor 0201
+28
+28
+Housings_SOIC
+SOIC-28W_7.5x18.7mm_Pitch1.27mm
+28-Lead Plastic Small Outline (SO) - Wide, 7.50 mm X 18.7 mm Body [SOIC] (https://www.akm.com/akm/en/file/datasheet/AK5394AVS.pdf)
+SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-C_0402
-Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
-capacitor 0402
+28
+28
+Housings_SOIC
+SOIJ-8_5.3x5.3mm_Pitch1.27mm
+8-Lead Plastic Small Outline (SM) - Medium, 5.28 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-C_0402_NoSilk
-Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
-capacitor 0402
+8
+8
+Housings_SOIC
+SSO-6_6.8x4.6mm_Pitch1.27mm_Clearance7mm
+8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SSO Stretched SO SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-C_0603
-Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
-capacitor 0603
+6
+6
+Housings_SOIC
+SSO-6_6.8x4.6mm_Pitch1.27mm_Clearance8mm
+8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SSO Stretched SO SOIC 1.27
 0
-2
-2
-Capacitors_SMD
-C_0603_HandSoldering
-Capacitor SMD 0603, hand soldering
-capacitor 0603
+6
+6
+Housings_SOIC
+SSO-8_6.8x5.9mm_Pitch1.27mm_Clearance7mm
+8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SSO Stretched SO SOIC Pitch 1.27
 0
-2
-2
-Capacitors_SMD
-C_0805
-Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)
-capacitor 0805
+8
+8
+Housings_SOIC
+SSO-8_6.8x5.9mm_Pitch1.27mm_Clearance8mm
+8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SSO Stretched SO SOIC Pitch 1.27
 0
-2
-2
-Capacitors_SMD
-C_0805_HandSoldering
-Capacitor SMD 0805, hand soldering
-capacitor 0805
+8
+8
+Housings_SOIC
+SSO-8_9.6x6.3mm_Pitch1.27mm_Clearance10.5mm
+8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SSO Stretched SO SOIC Pitch 1.27
 0
-2
-2
-Capacitors_SMD
-C_1206
-Capacitor SMD 1206, reflow soldering, AVX (see smccp.pdf)
-capacitor 1206
+8
+8
+Housings_SOIC
+SSO-8_13.6x6.3mm_Pitch1.27mm_Clearance14.2mm
+8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SSO Stretched SO SOIC Pitch 1.27
 0
-2
-2
-Capacitors_SMD
-C_1206_HandSoldering
-Capacitor SMD 1206, hand soldering
-capacitor 1206
+8
+8
+Housings_SOIC
+TI_SO-PowerPAD-8
+8-Lead Plastic PSOP, Exposed Die Pad (TI DDA0008B, see http://www.ti.com/lit/ds/symlink/lm3404.pdf)
+SSOP 0.50 exposed pad
 0
-2
-2
-Capacitors_SMD
-C_1210
-Capacitor SMD 1210, reflow soldering, AVX (see smccp.pdf)
-capacitor 1210
+12
+9
+Housings_SOIC
+Zetex_SM8
+Zetex,  SMD, 8 pin package (http://datasheet.octopart.com/ZDT6758TA-Zetex-datasheet-68057.pdf)
+Zetex SM8
 0
-2
-2
-Capacitors_SMD
-C_1210_HandSoldering
-Capacitor SMD 1210, hand soldering
-capacitor 1210
-0
-2
-2
-Capacitors_SMD
-C_1812
-Capacitor SMD 1812, reflow soldering, AVX (see smccp.pdf)
-capacitor 1812
-0
-2
-2
-Capacitors_SMD
-C_1812_HandSoldering
-Capacitor SMD 1812, hand soldering
-capacitor 1812
-0
-2
-2
-Capacitors_SMD
-C_1825
-Capacitor SMD 1825, reflow soldering, AVX (see smccp.pdf)
-capacitor 1825
-0
-2
-2
-Capacitors_SMD
-C_1825_HandSoldering
-Capacitor SMD 1825, hand soldering
-capacitor 1825
-0
-2
-2
-Capacitors_SMD
-C_2220
-Capacitor SMD 2220, reflow soldering, AVX (see smccp.pdf)
-capacitor 2220
-0
-2
-2
-Capacitors_SMD
-C_2220_HandSoldering
-Capacitor SMD 2220, hand soldering
-capacitor 2220
-0
-2
-2
-Capacitors_SMD
-C_2225
-Capacitor SMD 2225, reflow soldering, AVX (see smccp.pdf)
-capacitor 2225
-0
-2
-2
-Capacitors_SMD
-C_2225_HandSoldering
-Capacitor SMD 2225, hand soldering
-capacitor 2225
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Murata_TZB4-A
-trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
- Murata TZB4 TZB4-A
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Murata_TZB4-B
-trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
- Murata TZB4 TZB4-A
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Murata_TZC3
-trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
- Murata TZC3
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Murata_TZR1
-trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
- Murata TZR1
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Murata_TZW4
-trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
- Murata TZW4
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Murata_TZY2
-trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
- Murata TZY2
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Sprague-Goodman_SGC3
-trimmer capacitor SMD horizontal, http://media.wix.com/ugd/d86717_38d9821e12823a7aa9cef38c6c2a73cc.pdf
- Sprague Goodman SGC3
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Voltronics_JN
-trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
- Voltronics JN
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Voltronics_JQ
-trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
- Voltronics JQ
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Voltronics_JR
-trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
- Voltronics JR
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Voltronics_JV
-trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
- Voltronics JV
-0
-2
-2
-Capacitors_SMD
-C_Trimmer_Voltronics_JZ
-trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
- Voltronics JR
-0
-2
-2
+8
+8
